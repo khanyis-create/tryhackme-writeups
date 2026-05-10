@@ -20,4 +20,4 @@ in offensive and defensive security.
 | Search Skills | General | ⏳ Coming Soon |
 
 ## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/khanyisa-kamba-325739320/)
+(https://www.linkedin.com/in/khanyisa-kamba-325739320/)
