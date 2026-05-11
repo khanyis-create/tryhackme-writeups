@@ -16,7 +16,7 @@ in offensive and defensive security.
 | Room | Category | Status |
 |------|----------|--------|
 | Offensive Security Intro | Offensive Security | ✅ Complete |
-| Defensive Security Intro | Defensive Security | 🔄 In Progress |
+| Defensive Security Intro | Defensive Security | ✅ Complete |
 | Search Skills | General | ⏳ Coming Soon |
 
 ## Connect With Me
