@@ -17,7 +17,7 @@ in offensive and defensive security.
 |------|----------|--------|
 | Offensive Security Intro | Offensive Security | ✅ Complete |
 | Defensive Security Intro | Defensive Security | ✅ Complete |
-| Search Skills | General | ⏳ Coming Soon |
+| Search Skills | General | ✅ Complete |
 
 ## Connect With Me
 (https://www.linkedin.com/in/khanyisa-kamba-325739320/)
